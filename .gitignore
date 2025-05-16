@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build outputs
+out/
+dist/
+build/
+
+# Log files
+*.log
+
+# VSCode settings
+.vscode/
+.env
+
+
+# Electron cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
